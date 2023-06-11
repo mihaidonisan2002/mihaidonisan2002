@@ -8,4 +8,4 @@
 mihaidonisan2002/mihaidonisan2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-Faza 1 la ISS
+In main se gasesc toate cele 3 faze ale proiectului la ISS
